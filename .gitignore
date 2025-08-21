@@ -1,0 +1,23 @@
+# Build artifacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Objects and libs
+*.o
+*.a
+*.so
+
+# IDE/OS files
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local-only config
+config/local.ini
